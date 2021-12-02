@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simonefiet
 - 👀 I’m interested in javascript and PHP
 - 🌱 I’m currently learning Vue.js
-- 📫 How to reach me sft@kontrastcph.dk
+- 📫 How to reach me kontakt@simonetruelsen.dk
 
 <!---
 simonefiet/simonefiet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
